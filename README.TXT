@@ -1,4 +1,5 @@
 TCPDF - README
+forked shamelessly
 ============================================================
 
 I WISH TO IMPROVE AND EXPAND TCPDF BUT I NEED YOUR SUPPORT.
